@@ -1,0 +1,1 @@
+Шаблон для тестирования UI java + maven + selenium + allure
